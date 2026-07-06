@@ -21,7 +21,7 @@ git push origin main
 No `README.md`, procure esta parte:
 
 ```html
-<img height="210" src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Animação geek" />
+<img height="210" src="https://64.media.tumblr.com/2e1b0647ee522b261dc3c87ff194472e/378df6548b6b776e-65/s400x600/7c7441a69cd1f660ea702e2930c1cd624c46c899.gifv" alt="Animação geek" />
 ```
 
 Troque apenas o conteúdo de `src="..."` pelo link do GIF do Sheldon Cooper que você já usa.
