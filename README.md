@@ -3,7 +3,7 @@
 <!-- Banner em SVG dinâmico. Não é uma imagem criada manualmente; é renderizado pelo próprio link. -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:0f172a,50:0ea5e9,100:22c55e&text=Josiane%20Gon%C3%A7alves&fontColor=ffffff&fontSize=38&fontAlignY=35&desc=Front-End%20Developer%20in%20progress%20%7C%20React%20%E2%80%A2%20TypeScript%20%E2%80%A2%20JavaScript&descAlignY=58&descSize=15" alt="Banner Josiane Gonçalves" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=900&color=38BDF8&center=true&vCenter=true&width=780&lines=Desenvolvedora+Front-End+em+forma%C3%A7%C3%A3o;React+%E2%80%A2+TypeScript+%E2%80%A2+JavaScript+%E2%80%A2+UX%2FUI;Transi%C3%A7%C3%A3o+de+carreira+da+sa%C3%BAde+para+tecnologia;Construindo+projetos+reais%2C+um+commit+por+vez)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3400&pause=850&color=38BDF8&center=true&vCenter=true&width=780&lines=Front-End+Developer+%7C+React+%E2%80%A2+TypeScript+%E2%80%A2+JavaScript;Interfaces+com+prop%C3%B3sito%2C+clareza+e+boa+experi%C3%AAncia;Da+enfermagem+ao+c%C3%B3digo%3A+vis%C3%A3o+humana+para+produtos+digitais;Projetos+autorais%2C+vis%C3%A3o+de+produto+e+entrega+real)](https://git.io/typing-svg)
 
 </div>
 
@@ -15,9 +15,11 @@
 
 ## 👩‍💻 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, em transição de carreira da área da saúde para tecnologia, com foco em **Desenvolvimento Front-End**.
+Sou **Desenvolvedora Front-End**, focada em criar interfaces web modernas, responsivas e bem estruturadas com **React, TypeScript, JavaScript e boas práticas de UI/UX**.
 
-Tenho experiência profissional na saúde, o que fortaleceu minha visão prática, responsabilidade, comunicação e cuidado com pessoas. Hoje estou aplicando essa bagagem na criação de interfaces web modernas, organizadas e úteis.
+Minha trajetória na saúde fortaleceu uma habilidade que levo para a tecnologia: entender pessoas, organizar processos e resolver problemas com responsabilidade. Hoje transformo essa visão prática em produtos digitais com propósito, usabilidade e atenção real aos detalhes.
+
+Construo projetos autorais, documento decisões, publico aplicações e evoluo código com consistência. Meu trabalho une **interface, lógica, experiência do usuário e visão de produto**.
 
 - 🚀 Foco atual: **React, TypeScript, JavaScript e UI responsiva**
 - ☁️ Certificação: **AWS Certified Cloud Practitioner**
@@ -28,10 +30,6 @@ Tenho experiência profissional na saúde, o que fortaleceu minha visão prátic
     </td>
     <td width="42%" align="center" valign="middle">
 
-<!-- GIF/ANIMAÇÃO GEEK
-     Para manter o SEU Sheldon Cooper, substitua apenas o link abaixo pelo link do GIF que você já usa.
-     Exemplo: <img height="210" src="LINK_DO_SEU_GIF_DO_SHELDON_AQUI" />
--->
 <img height="210" src="https://64.media.tumblr.com/2e1b0647ee522b261dc3c87ff194472e/378df6548b6b776e-65/s400x600/7c7441a69cd1f660ea702e2930c1cd624c46c899.gifv" alt="Animação geek" />
 
 <br />
@@ -39,7 +37,6 @@ Tenho experiência profissional na saúde, o que fortaleceu minha visão prátic
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josianecgoncalves/)
 [![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Josiane-Goncalves)
 
-    </td>
   </tr>
 </table>
 
