@@ -32,11 +32,11 @@ Tenho experiência profissional na saúde, o que fortaleceu minha visão prátic
      Para manter o SEU Sheldon Cooper, substitua apenas o link abaixo pelo link do GIF que você já usa.
      Exemplo: <img height="210" src="LINK_DO_SEU_GIF_DO_SHELDON_AQUI" />
 -->
-<img height="210" src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Animação geek" />
+<img height="210" src="https://64.media.tumblr.com/2e1b0647ee522b261dc3c87ff194472e/378df6548b6b776e-65/s400x600/7c7441a69cd1f660ea702e2930c1cd624c46c899.gifv" alt="Animação geek" />
 
 <br />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josianecg/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josianecgoncalves/)
 [![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Josiane-Goncalves)
 
     </td>
