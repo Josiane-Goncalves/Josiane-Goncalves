@@ -1,61 +1,66 @@
 # Como usar este perfil no GitHub
 
-## 1. Crie o repositório de perfil
+## 1. Substituir o README
 
-No GitHub, crie um novo repositório público com exatamente este nome:
-
-```txt
-Josiane-Goncalves
-```
-
-O nome precisa ser igual ao seu usuário do GitHub para o README aparecer no seu perfil.
-
-## 2. Adicione os arquivos
-
-Envie estes arquivos para a raiz do repositório:
+Copie o arquivo `README.md` desta pasta e substitua o `README.md` do repositório:
 
 ```txt
-README.md
-.github/workflows/snake.yml
+Josiane-Goncalves/Josiane-Goncalves
 ```
 
-A estrutura deve ficar assim:
-
-```txt
-Josiane-Goncalves/
-├── README.md
-└── .github/
-    └── workflows/
-        └── snake.yml
-```
-
-## 3. Faça commit e push
+Depois rode:
 
 ```bash
-git add .
-git commit -m "feat: add profile README with contribution snake"
+git add README.md
+git commit -m "style: update profile README layout"
 git push origin main
 ```
 
-## 4. Ative a animação da cobrinha
+## 2. Manter ou trocar a animação do Sheldon
 
-Depois do push:
+No `README.md`, procure esta parte:
 
-1. Abra o repositório no GitHub.
-2. Vá na aba `Actions`.
-3. Clique no workflow `Generate GitHub contribution snake`.
-4. Clique em `Run workflow`.
-5. Aguarde a execução finalizar.
+```html
+<img height="210" src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Animação geek" />
+```
 
-O workflow criará uma branch chamada `output` com os arquivos SVG da animação.
+Troque apenas o conteúdo de `src="..."` pelo link do GIF do Sheldon Cooper que você já usa.
 
-## 5. Se a cobrinha não aparecer
+Exemplo:
 
-Verifique:
+```html
+<img height="210" src="LINK_DO_SEU_GIF_DO_SHELDON_AQUI" alt="Animação geek" />
+```
 
-- O repositório é público?
-- O nome do repositório é exatamente `Josiane-Goncalves`?
-- O arquivo `README.md` está na raiz?
-- O GitHub Actions está habilitado?
-- A branch `output` foi criada após rodar o workflow?
+## 3. Conferir a cobrinha
 
+A cobrinha depende do arquivo:
+
+```txt
+.github/workflows/snake.yml
+```
+
+Depois de subir o arquivo, vá no GitHub em:
+
+```txt
+Actions > Generate GitHub contribution snake > Run workflow
+```
+
+Se der erro de permissão, vá em:
+
+```txt
+Settings > Actions > General > Workflow permissions
+```
+
+E marque:
+
+```txt
+Read and write permissions
+```
+
+## 4. O que ajustar depois
+
+- Link dos projetos publicados na Vercel.
+- Link correto do GIF do Sheldon Cooper.
+- Ordem dos projetos em destaque.
+- Repositórios fixados no perfil.
