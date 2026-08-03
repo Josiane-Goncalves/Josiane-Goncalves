@@ -146,17 +146,6 @@ Minha trajetória profissional na saúde e na Engenharia Clínica fortaleceu hab
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Josiane-Goncalves&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josiane-Goncalves&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
-
-</div>
-
----
-
 ## 🐍 Contribuições em movimento
 
 <div align="center">
