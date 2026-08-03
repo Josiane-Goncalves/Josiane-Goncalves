@@ -174,58 +174,39 @@ A aplicação tem como objetivo apoiar o controle de:
 
 ## 💻 Outros projetos em destaque
 
+## 💻 Outros projetos em destaque
+
+## 💻 Outros projetos em destaque
+
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚴‍♀️ Ride Wars League V2</h3>
-      <p>
-        Aplicação web gamificada para grupos de ciclismo, com registro de
-        atividades, pontuação, ranking, conquistas e painel administrativo.
-      </p>
-      <p><strong>Stack:</strong> React, TypeScript, Vite e CSS</p>
-      <a href="https://github.com/Josiane-Goncalves/ride-wars-league-v2">
-        Ver repositório
-      </a>
-    </td>
-
-    <td width="50%" valign="top">
-      <h3>🩺 CuidarBem</h3>
-      <p>
-        Aplicação para registro e acompanhamento de glicemia, pressão arterial
-        e frequência cardíaca, com histórico e persistência local.
-      </p>
-      <p><strong>Stack:</strong> React, JavaScript, CSS e localStorage</p>
-      <a href="https://github.com/Josiane-Goncalves/cuidarbem">
-        Ver repositório
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📦 SellerFlow Hub</h3>
-      <p>
-        Dashboard para simular gestão de estoque, vendas e movimentações em
-        diferentes marketplaces.
-      </p>
-      <p><strong>Stack:</strong> React, TypeScript, Vite e CSS</p>
-      <a href="https://github.com/Josiane-Goncalves/sellerflow-hub">
-        Ver repositório
-      </a>
-    </td>
-
-    <td width="50%" valign="top">
-      <h3>🧪 Zaphyx Labs</h3>
-      <p>
-        Laboratório de projetos digitais, landing pages e soluções web criadas
-        para diferentes contextos e necessidades.
-      </p>
-      <p><strong>Stack:</strong> HTML, CSS, JavaScript e React</p>
-      <a href="https://github.com/Josiane-Goncalves?tab=repositories">
-        Ver projetos
-      </a>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🚴‍♀️ Ride Wars League V2</h3>
+<p>Aplicação web gamificada para grupos de ciclismo, com registro de atividades, pontuação, ranking, conquistas e painel administrativo.</p>
+<p><strong>Stack:</strong> React, TypeScript, Vite e CSS</p>
+<a href="https://github.com/Josiane-Goncalves/ride-wars-league-v2">Ver repositório</a>
+</td>
+<td width="50%" valign="top">
+<h3>🩺 CuidarBem</h3>
+<p>Aplicação para registro e acompanhamento de glicemia, pressão arterial e frequência cardíaca, com histórico e persistência local.</p>
+<p><strong>Stack:</strong> React, JavaScript, CSS e localStorage</p>
+<a href="https://github.com/Josiane-Goncalves/cuidarbem">Ver repositório</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>📦 SellerFlow Hub</h3>
+<p>Dashboard para simular gestão de estoque, vendas e movimentações em diferentes marketplaces.</p>
+<p><strong>Stack:</strong> React, TypeScript, Vite e CSS</p>
+<a href="https://github.com/Josiane-Goncalves/sellerflow-hub">Ver repositório</a>
+</td>
+<td width="50%" valign="top">
+<h3>🧪 Zaphyx Labs</h3>
+<p>Laboratório de projetos digitais, landing pages e soluções web criadas para diferentes contextos e necessidades.</p>
+<p><strong>Stack:</strong> HTML, CSS, JavaScript e React</p>
+<a href="https://github.com/Josiane-Goncalves?tab=repositories">Ver projetos</a>
+</td>
+</tr>
 </table>
 
 ---
@@ -260,18 +241,17 @@ A aplicação tem como objetivo apoiar o controle de:
 
 <img
   height="165"
-  src="https://github-readme-stats.vercel.app/api?username=Josiane-Goncalves&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+  src="https://github-readme-stats.vercel.app/api?username=Josiane-Goncalves&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800"
   alt="Estatísticas do GitHub"
 />
 
 <img
   height="165"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josiane-Goncalves&layout=compact&theme=tokyonight&hide_border=true"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josiane-Goncalves&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800"
   alt="Linguagens mais utilizadas"
 />
 
 </div>
-
 ---
 
 ## 🐍 Contribuições em movimento
