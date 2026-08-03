@@ -1,13 +1,9 @@
 <div align="center">
 
-<!-- Banner dinâmico -->
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0f172a,50:0ea5e9,100:22c55e&text=Josiane%20Gon%C3%A7alves&fontColor=ffffff&fontSize=38&fontAlignY=35&desc=Desenvolvedora%20de%20Software%20%7C%20React%20%E2%80%A2%20TypeScript%20%E2%80%A2%20Node.js%20%E2%80%A2%20NestJS&descAlignY=58&descSize=15"
-  alt="Banner Josiane Gonçalves"
-/>
+<!-- Banner em SVG dinâmico. Não é uma imagem criada manualmente; é renderizado pelo próprio link. -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:0f172a,50:0ea5e9,100:22c55e&text=Josiane%20Gon%C3%A7alves&fontColor=ffffff&fontSize=38&fontAlignY=35&desc=Desenvolvedora%20de%20Software%20%7C%20React%20%E2%80%A2%20TypeScript%20%E2%80%A2%20Node.js%20%E2%80%A2%20NestJS&descAlignY=58&descSize=15" alt="Banner Josiane Gonçalves" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3400&pause=850&color=38BDF8&center=true&vCenter=true&width=850&lines=Desenvolvedora+de+Software+%7C+React+%E2%80%A2+TypeScript;Front-End+em+evolu%C3%A7%C3%A3o+para+Full+Stack;Node.js+%E2%80%A2+NestJS+%E2%80%A2+Prisma+%E2%80%A2+PostgreSQL;An%C3%A1lise+de+requisitos+e+regras+de+neg%C3%B3cio;Produtos+digitais+baseados+em+problemas+reais)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3400&pause=850&color=38BDF8&center=true&vCenter=true&width=780&lines=Desenvolvedora+de+Software+%7C+React+%E2%80%A2+TypeScript;Front-End+em+evolu%C3%A7%C3%A3o+para+Full+Stack;Node.js+%E2%80%A2+NestJS+%E2%80%A2+Prisma+%E2%80%A2+PostgreSQL;Projetos+autorais%2C+regras+de+neg%C3%B3cio+e+documenta%C3%A7%C3%A3o)](https://git.io/typing-svg)
 
 </div>
 
@@ -23,39 +19,26 @@ Sou **Desenvolvedora de Software**, formada em **Análise e Desenvolvimento de S
 
 Atualmente amplio minha atuação para **Full Stack** por meio do desenvolvimento do **PulseOps**, produto autoral criado a partir de um problema real da Engenharia Clínica.
 
-No projeto, trabalho com:
+No projeto, atuo com análise de requisitos, regras de negócio, documentação técnica, organização em monorepo, modelagem de dados e desenvolvimento de back-end com **Node.js, NestJS, Prisma ORM e PostgreSQL**.
 
-- análise de requisitos;
-- definição de regras de negócio;
-- documentação técnica;
-- organização em monorepo;
-- modelagem de dados;
-- desenvolvimento de back-end com Node.js e NestJS.
-
-Minha experiência profissional na saúde e na Engenharia Clínica fortaleceu habilidades relacionadas a suporte técnico, treinamento de usuários, análise de falhas, rastreabilidade e compreensão de processos críticos.
+Minha trajetória profissional na saúde e na Engenharia Clínica fortaleceu habilidades que aplico na tecnologia: entender usuários, organizar processos, analisar falhas e resolver problemas com responsabilidade.
 
 - 🚀 Foco atual: **React, TypeScript, Node.js e NestJS**
-- 🗄️ Back-End: **Prisma ORM e PostgreSQL**
+- 🗄️ Banco de dados: **PostgreSQL e Prisma ORM**
 - ☁️ Certificação: **AWS Certified Cloud Practitioner**
 - 🎓 Formação: **Análise e Desenvolvimento de Sistemas**
-- 🩺 Experiência profissional: **saúde e Engenharia Clínica**
-- 🎯 Interesse: **desenvolvimento, sistemas e suporte a aplicações**
+- 🩺 Experiência profissional: **Engenharia Clínica e saúde**
+- 🎯 Buscando: **oportunidades em desenvolvimento, sistemas e suporte a aplicações**
 
     </td>
-
     <td width="42%" align="center" valign="middle">
 
-<img
-  height="210"
-  src="https://64.media.tumblr.com/2e1b0647ee522b261dc3c87ff194472e/378df6548b6b776e-65/s400x600/7c7441a69cd1f660ea702e2930c1cd624c46c899.gifv"
-  alt="Animação do Sheldon"
-/>
+<img height="210" src="https://64.media.tumblr.com/2e1b0647ee522b261dc3c87ff194472e/378df6548b6b776e-65/s400x600/7c7441a69cd1f660ea702e2930c1cd624c46c899.gifv" alt="Animação geek" />
 
-<br>
+<br />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josianecgoncalves/)
 [![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Josiane-Goncalves)
-[![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josypropy@gmail.com)
 
   </tr>
 </table>
@@ -68,40 +51,31 @@ Minha experiência profissional na saúde e na Engenharia Clínica fortaleceu ha
 
 ### Front-End
 
-<img
-  src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind"
-  alt="HTML, CSS, JavaScript, TypeScript, React, Vite e Tailwind CSS"
-/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind" alt="HTML, CSS, JavaScript, TypeScript, React, Vite e Tailwind" />
 
-<br><br>
+<br /><br />
 
 ### Back-End e banco de dados
 
-<img
-  src="https://skillicons.dev/icons?i=nodejs,nestjs,prisma,postgres"
-  alt="Node.js, NestJS, Prisma ORM e PostgreSQL"
-/>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,prisma,postgres" alt="Node.js, NestJS, Prisma ORM e PostgreSQL" />
 
-<br><br>
+<br /><br />
 
-### Ferramentas e infraestrutura
+### Ferramentas e fundamentos
 
-<img
-  src="https://skillicons.dev/icons?i=git,github,vscode,npm,docker,jest,linux,vercel,figma,aws"
-  alt="Git, GitHub, VS Code, NPM, Docker, Jest, Linux, Vercel, Figma e AWS"
-/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,docker,jest,linux,vercel,figma,aws" alt="Git, GitHub, VSCode, NPM, Docker, Jest, Linux, Vercel, Figma e AWS" />
 
 </div>
 
-<br>
+<br />
 
 | Área | Tecnologias e práticas |
 |---|---|
-| **Front-End** | React, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS, Vite e React Router |
-| **Back-End em desenvolvimento** | Node.js, NestJS, Prisma ORM, PostgreSQL, validações e APIs REST |
+| **Front-End** | HTML5, CSS3, JavaScript, TypeScript, React, Vite, Tailwind CSS |
+| **Back-End em desenvolvimento** | Node.js, NestJS, Prisma ORM, PostgreSQL, Zod e APIs REST |
 | **Engenharia de software** | Git, GitHub, npm workspaces, monorepo, Jest, ESLint e documentação técnica |
-| **Infraestrutura** | Docker Compose, Linux, Vercel e fundamentos de computação em nuvem |
-| **Análise de sistemas** | Requisitos, regras de negócio, modelagem de dados e documentação |
+| **Infraestrutura** | Docker Compose, Linux e Vercel |
+| **Análise de sistemas** | Análise de requisitos, regras de negócio, modelagem de dados e validações |
 | **Cloud** | AWS Certified Cloud Practitioner |
 
 ---
@@ -119,91 +93,52 @@ Minha experiência profissional na saúde e na Engenharia Clínica fortaleceu ha
 
 </div>
 
-- Comunicação com pessoas de diferentes perfis e áreas.
-- Organização de processos, informações e entregas.
-- Resolução de problemas com análise e responsabilidade.
-- Atenção aos detalhes e à segurança dos processos.
-- Facilidade para aprender, testar, corrigir e evoluir.
-- Experiência em ambientes críticos e de alta demanda.
-- Capacidade de transformar necessidades reais em soluções.
+- Comunicação com pessoas de diferentes perfis
+- Responsabilidade em ambientes de pressão
+- Atenção aos detalhes e segurança no processo
+- Empatia para entender necessidades reais dos usuários
+- Capacidade de aprender, testar, corrigir e evoluir
+- Organização para transformar ideias em entregas
 
 ---
 
-## 🚀 Projeto principal
-
-<div align="center">
-
-### 🏥 PulseOps
-
-**Gestão de equipamentos médico-hospitalares**
-
-[![Repositório](https://img.shields.io/badge/Ver_repositório-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Josiane-Goncalves/pulseops)
-
-</div>
-
-O **PulseOps** é um produto autoral criado a partir de uma necessidade real observada na Engenharia Clínica.
-
-A aplicação tem como objetivo apoiar o controle de:
-
-- disponibilidade de equipamentos;
-- localização atual;
-- empréstimos e devoluções;
-- manutenção;
-- histórico de movimentações;
-- usuários, cargos e sessões.
-
-### Estrutura atual
-
-- Monorepo gerenciado com npm workspaces.
-- Aplicações separadas para interface web, API e contratos compartilhados.
-- Back-end estruturado com Node.js e NestJS.
-- Modelagem de dados com Prisma ORM.
-- Banco de dados PostgreSQL.
-- Ambiente local com Docker Compose.
-- Modelagem inicial de usuários, cargos e sessões.
-- Armazenamento seguro de senhas com Argon2.
-- Estrutura de testes automatizados com Jest.
-- Documentação de requisitos, regras de negócio e arquitetura.
-- Desenvolvimento organizado em pequenas entregas com Git e GitHub.
-
-### Tecnologias
-
-`React` `TypeScript` `Node.js` `NestJS` `Prisma ORM` `PostgreSQL` `Docker Compose` `Jest` `Git`
-
----
-
-## 💻 Outros projetos em destaque
-
-## 💻 Outros projetos em destaque
-
-## 💻 Outros projetos em destaque
+## 🚀 Projetos em destaque
 
 <table>
 <tr>
+<td colspan="2" width="100%" valign="top">
+<h3>🏥 PulseOps</h3>
+<p>Produto autoral para apoiar o controle de disponibilidade, localização, empréstimos, devoluções e histórico de equipamentos médico-hospitalares, criado a partir de uma necessidade real da Engenharia Clínica.</p>
+<p>O projeto envolve análise de requisitos, definição de regras de negócio, documentação técnica, organização em monorepo, modelagem de dados, back-end e testes automatizados.</p>
+<p><strong>Stack:</strong> React, TypeScript, Node.js, NestJS, Prisma ORM, PostgreSQL, Docker Compose e Jest</p>
+<a href="https://github.com/Josiane-Goncalves/pulseops">Ver repositório</a>
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <h3>🚴‍♀️ Ride Wars League V2</h3>
-<p>Aplicação web gamificada para grupos de ciclismo, com registro de atividades, pontuação, ranking, conquistas e painel administrativo.</p>
-<p><strong>Stack:</strong> React, TypeScript, Vite e CSS</p>
+<p>Aplicação web gamificada para ciclistas registrarem pedais, acompanharem pontuação, ranking, conquistas e desafios semanais.</p>
+<p><strong>Stack:</strong> React, TypeScript, Vite, CSS</p>
 <a href="https://github.com/Josiane-Goncalves/ride-wars-league-v2">Ver repositório</a>
 </td>
 <td width="50%" valign="top">
 <h3>🩺 CuidarBem</h3>
 <p>Aplicação para registro e acompanhamento de glicemia, pressão arterial e frequência cardíaca, com histórico e persistência local.</p>
-<p><strong>Stack:</strong> React, JavaScript, CSS e localStorage</p>
+<p><strong>Stack:</strong> React, JavaScript, CSS, localStorage</p>
 <a href="https://github.com/Josiane-Goncalves/cuidarbem">Ver repositório</a>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <h3>📦 SellerFlow Hub</h3>
-<p>Dashboard para simular gestão de estoque, vendas e movimentações em diferentes marketplaces.</p>
-<p><strong>Stack:</strong> React, TypeScript, Vite e CSS</p>
+<p>Dashboard para simular gestão de estoque, vendas e movimentações em marketplaces, pensado para pequenos vendedores.</p>
+<p><strong>Stack:</strong> React, TypeScript, Vite, CSS</p>
 <a href="https://github.com/Josiane-Goncalves/sellerflow-hub">Ver repositório</a>
 </td>
 <td width="50%" valign="top">
 <h3>🧪 Zaphyx Labs</h3>
-<p>Laboratório de projetos digitais, landing pages e soluções web criadas para diferentes contextos e necessidades.</p>
-<p><strong>Stack:</strong> HTML, CSS, JavaScript e React</p>
+<p>Laboratório de projetos digitais, landing pages e soluções web simples para pequenos negócios e profissionais autônomos.</p>
+<p><strong>Stack:</strong> HTML, CSS, JavaScript / React em evolução</p>
 <a href="https://github.com/Josiane-Goncalves?tab=repositories">Ver projetos</a>
 </td>
 </tr>
@@ -211,47 +146,15 @@ A aplicação tem como objetivo apoiar o controle de:
 
 ---
 
-## 🧭 Como desenvolvo
-
-- Compreensão do problema antes da implementação.
-- Definição de escopo, requisitos e regras de negócio.
-- Documentação de decisões funcionais e técnicas.
-- Organização do desenvolvimento em pequenas entregas.
-- Controle de versão com Git e GitHub.
-- Criação e execução de testes conforme a evolução das funcionalidades.
-- Uso de IA como apoio à pesquisa, documentação, testes e investigação de erros.
-- Revisão e validação das soluções antes de incorporá-las ao projeto.
-
----
-
-## 🎓 Formação e certificações
-
-- **Tecnologia em Análise e Desenvolvimento de Sistemas** — UniCV, concluído em 2026.
-- **AWS Certified Cloud Practitioner**.
-- **AWS re/Start** — Escola da Nuvem.
-- **Formação Front-End** — Proz Educação.
-- **Fundamentos de Análise de Dados** — Cisco Networking Academy.
-- **Formação HTML Web Developer** — DIO.
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api?username=Josiane-Goncalves&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800"
-  alt="Estatísticas do GitHub"
-/>
-
-<img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josiane-Goncalves&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800"
-  alt="Linguagens mais utilizadas"
-/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Josiane-Goncalves&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josiane-Goncalves&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
 
 </div>
+
 ---
 
 ## 🐍 Contribuições em movimento
@@ -259,20 +162,9 @@ A aplicação tem como objetivo apoiar o controle de:
 <div align="center">
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Josiane-Goncalves/Josiane-Goncalves/output/github-contribution-grid-snake-dark.svg"
-  />
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Josiane-Goncalves/Josiane-Goncalves/output/github-contribution-grid-snake.svg"
-  />
-
-  <img
-    alt="Animação da cobrinha com as contribuições do GitHub"
-    src="https://raw.githubusercontent.com/Josiane-Goncalves/Josiane-Goncalves/output/github-contribution-grid-snake.svg"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Josiane-Goncalves/Josiane-Goncalves/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Josiane-Goncalves/Josiane-Goncalves/output/github-contribution-grid-snake.svg" />
+  <img alt="Animação da cobrinha com as contribuições do GitHub" src="https://raw.githubusercontent.com/Josiane-Goncalves/Josiane-Goncalves/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
@@ -281,12 +173,8 @@ A aplicação tem como objetivo apoiar o controle de:
 
 <div align="center">
 
-### Desenvolvimento de software com contexto, documentação e propósito. 🚀
+### Em construção, mas em movimento. 🚀
 
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:22c55e,50:0ea5e9,100:0f172a&section=footer"
-  alt="Rodapé"
-/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:22c55e,50:0ea5e9,100:0f172a&section=footer" alt="Footer" />
 
 </div>
