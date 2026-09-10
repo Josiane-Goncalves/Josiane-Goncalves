@@ -17,7 +17,7 @@
 
 Sou **Desenvolvedora de Software**, formada em **Análise e Desenvolvimento de Sistemas**, com experiência prática na criação de aplicações web utilizando **React, TypeScript e JavaScript**.
 
-Atualmente amplio minha atuação para **Full Stack** por meio do desenvolvimento do **PulseOps**, produto autoral criado a partir de um problema real da Engenharia Clínica.
+Atualmente amplio minha atuação para **Full Stack** por meio do desenvolvimento do **MedUpTime**, produto autoral criado a partir de um problema real da Engenharia Clínica.
 
 No projeto, atuo com análise de requisitos, regras de negócio, documentação técnica, organização em monorepo, modelagem de dados e desenvolvimento de back-end com **Node.js, NestJS, Prisma ORM e PostgreSQL**.
 
