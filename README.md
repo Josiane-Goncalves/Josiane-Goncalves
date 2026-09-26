@@ -17,9 +17,7 @@
 
 Sou **Desenvolvedora de Software**, formada em **Análise e Desenvolvimento de Sistemas**, com experiência prática na criação de aplicações web utilizando **React, TypeScript e JavaScript**.
 
-Atualmente amplio minha atuação para **Full Stack** por meio do desenvolvimento do **MedUpTime**, produto autoral criado a partir de um problema real da Engenharia Clínica.
-
-No projeto, atuo com análise de requisitos, regras de negócio, documentação técnica, organização em monorepo, modelagem de dados e desenvolvimento de back-end com **Node.js, NestJS, Prisma ORM e PostgreSQL**.
+Em meus projetos, atuo com análise de requisitos, regras de negócio, documentação técnica, organização, modelagem de dados e desenvolvimento de back-end com **Node.js, NestJS, Prisma ORM e PostgreSQL**.
 
 Minha trajetória profissional na saúde e na Engenharia Clínica fortaleceu habilidades que aplico na tecnologia: entender usuários, organizar processos, analisar falhas e resolver problemas com responsabilidade.
 
