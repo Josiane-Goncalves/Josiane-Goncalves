@@ -100,50 +100,6 @@ Minha trajetória profissional na saúde e na Engenharia Clínica fortaleceu hab
 
 ---
 
-## 🚀 Projetos em destaque
-
-<table>
-<tr>
-<td colspan="2" width="100%" valign="top">
-<h3>🏥 PulseOps</h3>
-<p>Produto autoral para apoiar o controle de disponibilidade, localização, empréstimos, devoluções e histórico de equipamentos médico-hospitalares, criado a partir de uma necessidade real da Engenharia Clínica.</p>
-<p>O projeto envolve análise de requisitos, definição de regras de negócio, documentação técnica, organização em monorepo, modelagem de dados, back-end e testes automatizados.</p>
-<p><strong>Stack:</strong> React, TypeScript, Node.js, NestJS, Prisma ORM, PostgreSQL, Docker Compose e Jest</p>
-<a href="https://github.com/Josiane-Goncalves/pulseops">Ver repositório</a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>🚴‍♀️ Ride Wars League V2</h3>
-<p>Aplicação web gamificada para ciclistas registrarem pedais, acompanharem pontuação, ranking, conquistas e desafios semanais.</p>
-<p><strong>Stack:</strong> React, TypeScript, Vite, CSS</p>
-<a href="https://github.com/Josiane-Goncalves/ride-wars-league-v2">Ver repositório</a>
-</td>
-<td width="50%" valign="top">
-<h3>🩺 CuidarBem</h3>
-<p>Aplicação para registro e acompanhamento de glicemia, pressão arterial e frequência cardíaca, com histórico e persistência local.</p>
-<p><strong>Stack:</strong> React, JavaScript, CSS, localStorage</p>
-<a href="https://github.com/Josiane-Goncalves/cuidarbem">Ver repositório</a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>📦 SellerFlow Hub</h3>
-<p>Dashboard para simular gestão de estoque, vendas e movimentações em marketplaces, pensado para pequenos vendedores.</p>
-<p><strong>Stack:</strong> React, TypeScript, Vite, CSS</p>
-<a href="https://github.com/Josiane-Goncalves/sellerflow-hub">Ver repositório</a>
-</td>
-<td width="50%" valign="top">
-<h3>🧪 Zaphyx Labs</h3>
-<p>Laboratório de projetos digitais, landing pages e soluções web simples para pequenos negócios e profissionais autônomos.</p>
-<p><strong>Stack:</strong> HTML, CSS, JavaScript / React em evolução</p>
-<a href="https://github.com/Josiane-Goncalves?tab=repositories">Ver projetos</a>
-</td>
-</tr>
-</table>
-
----
-
 ## 🐍 Contribuições em movimento
 
 <div align="center">
